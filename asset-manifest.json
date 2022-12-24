@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/racttextutils/static/css/main.073c9b0a.css",
+    "main.js": "/racttextutils/static/js/main.2ff05e88.js",
+    "static/js/787.4830b047.chunk.js": "/racttextutils/static/js/787.4830b047.chunk.js",
+    "index.html": "/racttextutils/index.html",
+    "main.073c9b0a.css.map": "/racttextutils/static/css/main.073c9b0a.css.map",
+    "main.2ff05e88.js.map": "/racttextutils/static/js/main.2ff05e88.js.map",
+    "787.4830b047.chunk.js.map": "/racttextutils/static/js/787.4830b047.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ff05e88.js"
+  ]
+}
